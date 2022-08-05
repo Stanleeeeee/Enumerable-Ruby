@@ -13,34 +13,21 @@ In this project we learned how to use a module inside our class. For this we cre
 
 ## Getting Started
 
-- To get a local copy up and running follow these simple example steps.
+To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+1- Copy this link https://github.com/Stanleeeeee/Enumerable-Ruby.git
+2- Get the directory that you want to clone the repository.
+3- Open the command prompt in this directory.
+4- Write git clone https://github.com/Stanleeeeee/Enumerable-Ruby.git
+5- Go to the repository folder in your command prompt cd enumerable.
+6- Go to command line and run ruby enumerable.rb or you can just paste the code on IRB (Interactive Ruby)
 
-- [x] A web browser like Google Chrome.
-- [x] A code editor like Visual Studio Code with Git and Ruby.
+To setup linters on your local environment, please follow these steps.
 
-You can check if Git is installed by running the following command in the terminal.
-```
-$ git --version
-```
+1- Run bundle install. 2- Run rubocop . for the errors.
 
-Likewise for Ruby installation.
-```
-$ ruby --version && irb
-```
-
-## Setup
-
-Clone the repository using the GitHub link provided below.
-
-### Install
-
-In the terminal, go to your file directory and run this command.
-
-
-```
-$ git clone https://github.com/ppmarq1/My_Enumerable.git
+Prerequisites
+IRB(Interactive Ruby Shell), VSCode, WSL(for Windows OS), for linters on local environment Ruby Gem.
 ```
 
 ## Authors
